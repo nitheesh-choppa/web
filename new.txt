@@ -1,1 +1,1 @@
-new txt
+let new text = charan
